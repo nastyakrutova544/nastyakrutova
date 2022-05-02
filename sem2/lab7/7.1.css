@@ -1,0 +1,41 @@
+#content{
+  background-color: blue;
+  background-image: url("7.1.png");
+  background-position: center top;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+#content2{
+text-align: center;
+font-family: Verdana;
+font-weight: bold;
+font-size: 19px;
+background-image: url("7.2.png");
+background-attachment: fixed;
+}
+#content3{
+text-align: center;
+font-family: Verdana;
+font-weight: bold;
+font-size: 19px;
+  background-image: url("7.3.png");
+  background-position: top;
+  background-repeat: no-repeat;
+}
+#content4{
+text-align: center;
+font-family: Verdana;
+font-weight: bold;
+font-size: 19px;
+  background-image: url("7.4.png");
+  background-position: right;
+  background-repeat: no-repeat;
+}
+#content5{
+background-color: green;
+background-repeat: repeat-x;
+background-image: url("7.7.jpg");
+background-attachment: scroll;
+background-position: left;
+background-repeat: no-repeat;
+}
